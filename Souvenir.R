@@ -14,3 +14,7 @@ library(fpp2)
 
 #Load the dataset
 data <-read_excel("/Users/av_sa/Desktop/ISB/Courses/LDA/assignment/dating/souvenir/SouvenirSales.xlsx")
+
+#Added the file
+
+library()
